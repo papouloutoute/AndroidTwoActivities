@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="button_main">Envoyer</string>
+    <string name="editText_main">Entrez votre message</string>
+    <string name="button_second">Répondre</string>
+    <string name="editText_second">Entrez votre réponse</string>
+    <string name="text_header">Message reçu</string>
+</resources>
